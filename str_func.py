@@ -1,4 +1,5 @@
 def str_upper(str_):
+    """Raises the register"""
     return str_.upper()
 
 def str_title(str_):
